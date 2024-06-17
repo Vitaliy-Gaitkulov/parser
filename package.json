@@ -1,0 +1,25 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "task parser",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitaliy-Gaitkulov/parser.git"
+  },
+  "author": "Vitaliy Haitkulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitaliy-Gaitkulov/parser/issues"
+  },
+  "homepage": "https://github.com/Vitaliy-Gaitkulov/parser#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
